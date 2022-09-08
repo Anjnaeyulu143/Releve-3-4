@@ -1,0 +1,27 @@
+.description {
+  display: flex;
+}
+.left-description {
+  height: 400px;
+  padding: 7vh 5vw;
+}
+.right-description {
+  padding: 4vh 3vw;
+}
+.description-goback {
+  text-decoration: none;
+  color: grey;
+}
+.description-title {
+  padding-top: 50px;
+}
+.description-button {
+  background-color: rgb(216, 154, 165);
+  border: none;
+  padding: 10px;
+  color: white;
+  font-weight: 600;
+  border-radius: 10px;
+  border: 2px solid palevioletred;
+  cursor: pointer;
+}
