@@ -1,25 +1,26 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import { Provider } from "react-redux";
-import { BrowserRouter, Redirect, Route, Switch } from "react-router-dom";
+import { BrowserRouter, Switch, Route } from "react-router-dom";
 
 import store from "./store/store";
+import MovieDetails from "./context";
 
 import Home from "./pages/Home/Home";
-import MovieDetails from "./pages/details/movieDetails";
-
+import Description from "./pages/Description/Description";
+import SeatPickerP from "./pages/SeatPicker/SeatPickerP";
 import "./index.scss";
-// import "slick-carousel/slick/slick.css";
-// import "slick-carousel/slick/slick-theme.css";
 
 ReactDOM.render(
   <Provider store={store}>
     <BrowserRouter>
-      <Switch>
-        <Route exact path="/" component={Home} />
-        <Route exact path="/details/:name" component={MovieDetails} />
-        <Redirect to="/" />
-      </Switch>
+      <MovieDetails>
+        <Switch>
+          <Route path="/" exact component={Home} />
+          <Route path="/description/:id" exact component={Description} />
+          <Route path="/seats/:id" exact component={SeatPickerP} />
+        </Switch>
+      </MovieDetails>
     </BrowserRouter>
   </Provider>,
   document.getElementById("root")

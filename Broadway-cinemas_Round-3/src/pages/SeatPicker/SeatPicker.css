@@ -1,0 +1,22 @@
+.seat-picker-container {
+  padding: 2vh 1.5vw;
+}
+.seat-picker-time-button {
+  background-color: green;
+  border: none;
+  padding: 5px;
+  margin: 5px;
+  color: white;
+  font-weight: 600;
+  border-radius: 10px;
+  border: 2px solid green;
+  cursor: pointer;
+}
+.seat-picker-header {
+  display: flex;
+  justify-content: space-between;
+}
+.seat-picker-header-right {
+  display: flex;
+  justify-content: space-around;
+}
