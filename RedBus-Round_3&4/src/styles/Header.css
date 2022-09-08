@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background-color: #d84f57;
+}
+
+.header__navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px 20px 0;
+}
+
+p {
+  margin-bottom: unset !important;
+  cursor: pointer;
+}
+
+.header__navbar > div {
+  display: flex;
+  color: #fff;
+  align-items: center;
+}
+
+.header__navbar > div > p {
+  margin-right: 16px;
+}
+
+.header__navbar > div > img {
+  width: 100px;
+  height: 60px;
+  margin-right: 20px;
+}
+
+.user-icon {
+  font-size: 28px;
+  margin-right: 12px;
+}
+
+.down-icon {
+  margin-right: 20px;
+}

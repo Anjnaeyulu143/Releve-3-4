@@ -1,0 +1,27 @@
+.searchBar {
+  display: flex;
+}
+
+a,
+a:hover,
+a:active {
+  text-decoration: none;
+  color: #fff;
+}
+
+.searchBar > input {
+  padding: 8px 12px;
+  width: 20vw;
+}
+
+.searchBar > input:focus {
+  outline: none;
+}
+
+.searchBar > button {
+  background-color: #d84f57;
+  border: none;
+  padding: 8px 12px;
+  color: #fff;
+  cursor: pointer;
+}

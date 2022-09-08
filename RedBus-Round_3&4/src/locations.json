@@ -1,0 +1,1202 @@
+[
+  {
+    "_id": "6048b190b35ecf4988e921f2",
+    "departureLocation": {
+      "name": "Raebareli",
+      "subLocations": [
+        "Sublocation 1 (Raebareli)",
+        "Sublocation 2 (Raebareli)",
+        "Sublocation 3 (Raebareli)",
+        "Sublocation 4 (Raebareli)",
+        "Sublocation 5 (Raebareli)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Lucknow",
+      "subLocations": [
+        "Sublocation 1 (Lucknow)",
+        "Sublocation 2 (Lucknow)",
+        "Sublocation 3 (Lucknow)",
+        "Sublocation 4 (Lucknow)",
+        "Sublocation 5 (Lucknow)"
+      ]
+    },
+    "duration": 11
+  },
+  {
+    "_id": "6048b190b35ecf4988e921e4",
+    "departureLocation": {
+      "name": "Lucknow",
+      "subLocations": [
+        "Sublocation 1 (Lucknow)",
+        "Sublocation 2 (Lucknow)",
+        "Sublocation 3 (Lucknow)",
+        "Sublocation 4 (Lucknow)",
+        "Sublocation 5 (Lucknow)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Haidargarh",
+      "subLocations": [
+        "Sublocation 1 (Haidargarh)",
+        "Sublocation 2 (Haidargarh)",
+        "Sublocation 3 (Haidargarh)",
+        "Sublocation 4 (Haidargarh)",
+        "Sublocation 5 (Haidargarh)"
+      ]
+    },
+    "duration": 18
+  },
+  {
+    "_id": "6048b190b35ecf4988e921f5",
+    "departureLocation": {
+      "name": "Lucknow",
+      "subLocations": [
+        "Sublocation 1 (Lucknow)",
+        "Sublocation 2 (Lucknow)",
+        "Sublocation 3 (Lucknow)",
+        "Sublocation 4 (Lucknow)",
+        "Sublocation 5 (Lucknow)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Kanpur",
+      "subLocations": [
+        "Sublocation 1 (Kanpur)",
+        "Sublocation 2 (Kanpur)",
+        "Sublocation 3 (Kanpur)",
+        "Sublocation 4 (Kanpur)",
+        "Sublocation 5 (Kanpur)"
+      ]
+    },
+    "duration": 14
+  },
+  {
+    "_id": "6048b190b35ecf4988e921ff",
+    "departureLocation": {
+      "name": "Agra",
+      "subLocations": [
+        "Sublocation 1 (Agra)",
+        "Sublocation 2 (Agra)",
+        "Sublocation 3 (Agra)",
+        "Sublocation 4 (Agra)",
+        "Sublocation 5 (Agra)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Sikhohabad",
+      "subLocations": [
+        "Sublocation 1 (Sikhohabad)",
+        "Sublocation 2 (Sikhohabad)",
+        "Sublocation 3 (Sikhohabad)",
+        "Sublocation 4 (Sikhohabad)",
+        "Sublocation 5 (Sikhohabad)"
+      ]
+    },
+    "duration": 10
+  },
+  {
+    "_id": "6048b190b35ecf4988e92200",
+    "departureLocation": {
+      "name": "Azamgarh",
+      "subLocations": [
+        "Sublocation 1 (Azamgarh)",
+        "Sublocation 2 (Azamgarh)",
+        "Sublocation 3 (Azamgarh)",
+        "Sublocation 4 (Azamgarh)",
+        "Sublocation 5 (Azamgarh)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Lucknow",
+      "subLocations": [
+        "Sublocation 1 (Lucknow)",
+        "Sublocation 2 (Lucknow)",
+        "Sublocation 3 (Lucknow)",
+        "Sublocation 4 (Lucknow)",
+        "Sublocation 5 (Lucknow)"
+      ]
+    },
+    "duration": 18
+  },
+  {
+    "_id": "6048b190b35ecf4988e921ec",
+    "departureLocation": {
+      "name": "Anand Vihar",
+      "subLocations": [
+        "Sublocation 1 (Anand Vihar)",
+        "Sublocation 2 (Anand Vihar)",
+        "Sublocation 3 (Anand Vihar)",
+        "Sublocation 4 (Anand Vihar)",
+        "Sublocation 5 (Anand Vihar)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Alambagh",
+      "subLocations": [
+        "Sublocation 1 (Alambagh)",
+        "Sublocation 2 (Alambagh)",
+        "Sublocation 3 (Alambagh)",
+        "Sublocation 4 (Alambagh)",
+        "Sublocation 5 (Alambagh)"
+      ]
+    },
+    "duration": 20
+  },
+  {
+    "_id": "6048b190b35ecf4988e92205",
+    "departureLocation": {
+      "name": "Faizabad",
+      "subLocations": [
+        "Sublocation 1 (Faizabad)",
+        "Sublocation 2 (Faizabad)",
+        "Sublocation 3 (Faizabad)",
+        "Sublocation 4 (Faizabad)",
+        "Sublocation 5 (Faizabad)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Allahabad",
+      "subLocations": [
+        "Sublocation 1 (Allahabad)",
+        "Sublocation 2 (Allahabad)",
+        "Sublocation 3 (Allahabad)",
+        "Sublocation 4 (Allahabad)",
+        "Sublocation 5 (Allahabad)"
+      ]
+    },
+    "duration": 19
+  },
+  {
+    "_id": "6048b190b35ecf4988e921dd",
+    "departureLocation": {
+      "name": "Allahabad",
+      "subLocations": [
+        "Sublocation 1 (Allahabad)",
+        "Sublocation 2 (Allahabad)",
+        "Sublocation 3 (Allahabad)",
+        "Sublocation 4 (Allahabad)",
+        "Sublocation 5 (Allahabad)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Lucknow",
+      "subLocations": [
+        "Sublocation 1 (Lucknow)",
+        "Sublocation 2 (Lucknow)",
+        "Sublocation 3 (Lucknow)",
+        "Sublocation 4 (Lucknow)",
+        "Sublocation 5 (Lucknow)"
+      ]
+    },
+    "duration": 14
+  },
+  {
+    "_id": "6048b190b35ecf4988e921f0",
+    "departureLocation": {
+      "name": "Faizabad",
+      "subLocations": [
+        "Sublocation 1 (Faizabad)",
+        "Sublocation 2 (Faizabad)",
+        "Sublocation 3 (Faizabad)",
+        "Sublocation 4 (Faizabad)",
+        "Sublocation 5 (Faizabad)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Sultanpur",
+      "subLocations": [
+        "Sublocation 1 (Sultanpur)",
+        "Sublocation 2 (Sultanpur)",
+        "Sublocation 3 (Sultanpur)",
+        "Sublocation 4 (Sultanpur)",
+        "Sublocation 5 (Sultanpur)"
+      ]
+    },
+    "duration": 22
+  },
+  {
+    "_id": "6048b190b35ecf4988e921f7",
+    "departureLocation": {
+      "name": "Delhi",
+      "subLocations": [
+        "Sublocation 1 (Delhi)",
+        "Sublocation 2 (Delhi)",
+        "Sublocation 3 (Delhi)",
+        "Sublocation 4 (Delhi)",
+        "Sublocation 5 (Delhi)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Khurja",
+      "subLocations": [
+        "Sublocation 1 (Khurja)",
+        "Sublocation 2 (Khurja)",
+        "Sublocation 3 (Khurja)",
+        "Sublocation 4 (Khurja)",
+        "Sublocation 5 (Khurja)"
+      ]
+    },
+    "duration": 23
+  },
+  {
+    "_id": "6048b190b35ecf4988e9220c",
+    "departureLocation": {
+      "name": "Lucknow",
+      "subLocations": [
+        "Sublocation 1 (Lucknow)",
+        "Sublocation 2 (Lucknow)",
+        "Sublocation 3 (Lucknow)",
+        "Sublocation 4 (Lucknow)",
+        "Sublocation 5 (Lucknow)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Kunda",
+      "subLocations": [
+        "Sublocation 1 (Kunda)",
+        "Sublocation 2 (Kunda)",
+        "Sublocation 3 (Kunda)",
+        "Sublocation 4 (Kunda)",
+        "Sublocation 5 (Kunda)"
+      ]
+    },
+    "duration": 12
+  },
+  {
+    "_id": "6048b190b35ecf4988e921fc",
+    "departureLocation": {
+      "name": "Khurja",
+      "subLocations": [
+        "Sublocation 1 (Khurja)",
+        "Sublocation 2 (Khurja)",
+        "Sublocation 3 (Khurja)",
+        "Sublocation 4 (Khurja)",
+        "Sublocation 5 (Khurja)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Delhi",
+      "subLocations": [
+        "Sublocation 1 (Delhi)",
+        "Sublocation 2 (Delhi)",
+        "Sublocation 3 (Delhi)",
+        "Sublocation 4 (Delhi)",
+        "Sublocation 5 (Delhi)"
+      ]
+    },
+    "duration": 23
+  },
+  {
+    "_id": "6048b190b35ecf4988e921fd",
+    "departureLocation": {
+      "name": "Lucknow",
+      "subLocations": [
+        "Sublocation 1 (Lucknow)",
+        "Sublocation 2 (Lucknow)",
+        "Sublocation 3 (Lucknow)",
+        "Sublocation 4 (Lucknow)",
+        "Sublocation 5 (Lucknow)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Jagdishpur",
+      "subLocations": [
+        "Sublocation 1 (Jagdishpur)",
+        "Sublocation 2 (Jagdishpur)",
+        "Sublocation 3 (Jagdishpur)",
+        "Sublocation 4 (Jagdishpur)",
+        "Sublocation 5 (Jagdishpur)"
+      ]
+    },
+    "duration": 22
+  },
+  {
+    "_id": "6048b190b35ecf4988e9220d",
+    "departureLocation": {
+      "name": "Bahraich",
+      "subLocations": [
+        "Sublocation 1 (Bahraich)",
+        "Sublocation 2 (Bahraich)",
+        "Sublocation 3 (Bahraich)",
+        "Sublocation 4 (Bahraich)",
+        "Sublocation 5 (Bahraich)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Lucknow",
+      "subLocations": [
+        "Sublocation 1 (Lucknow)",
+        "Sublocation 2 (Lucknow)",
+        "Sublocation 3 (Lucknow)",
+        "Sublocation 4 (Lucknow)",
+        "Sublocation 5 (Lucknow)"
+      ]
+    },
+    "duration": 15
+  },
+  {
+    "_id": "6048b190b35ecf4988e921e9",
+    "departureLocation": {
+      "name": "Lucknow",
+      "subLocations": [
+        "Sublocation 1 (Lucknow)",
+        "Sublocation 2 (Lucknow)",
+        "Sublocation 3 (Lucknow)",
+        "Sublocation 4 (Lucknow)",
+        "Sublocation 5 (Lucknow)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Agra",
+      "subLocations": [
+        "Sublocation 1 (Agra)",
+        "Sublocation 2 (Agra)",
+        "Sublocation 3 (Agra)",
+        "Sublocation 4 (Agra)",
+        "Sublocation 5 (Agra)"
+      ]
+    },
+    "duration": 18
+  },
+  {
+    "_id": "6048b190b35ecf4988e921fa",
+    "departureLocation": {
+      "name": "Amethi",
+      "subLocations": [
+        "Sublocation 1 (Amethi)",
+        "Sublocation 2 (Amethi)",
+        "Sublocation 3 (Amethi)",
+        "Sublocation 4 (Amethi)",
+        "Sublocation 5 (Amethi)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Haidargarh",
+      "subLocations": [
+        "Sublocation 1 (Haidargarh)",
+        "Sublocation 2 (Haidargarh)",
+        "Sublocation 3 (Haidargarh)",
+        "Sublocation 4 (Haidargarh)",
+        "Sublocation 5 (Haidargarh)"
+      ]
+    },
+    "duration": 23
+  },
+  {
+    "_id": "6048b190b35ecf4988e92204",
+    "departureLocation": {
+      "name": "Gorakhpur",
+      "subLocations": [
+        "Sublocation 1 (Gorakhpur)",
+        "Sublocation 2 (Gorakhpur)",
+        "Sublocation 3 (Gorakhpur)",
+        "Sublocation 4 (Gorakhpur)",
+        "Sublocation 5 (Gorakhpur)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Faizabad",
+      "subLocations": [
+        "Sublocation 1 (Faizabad)",
+        "Sublocation 2 (Faizabad)",
+        "Sublocation 3 (Faizabad)",
+        "Sublocation 4 (Faizabad)",
+        "Sublocation 5 (Faizabad)"
+      ]
+    },
+    "duration": 16
+  },
+  {
+    "_id": "6048b190b35ecf4988e921e3",
+    "departureLocation": {
+      "name": "Gorakhpur",
+      "subLocations": [
+        "Sublocation 1 (Gorakhpur)",
+        "Sublocation 2 (Gorakhpur)",
+        "Sublocation 3 (Gorakhpur)",
+        "Sublocation 4 (Gorakhpur)",
+        "Sublocation 5 (Gorakhpur)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Lucknow",
+      "subLocations": [
+        "Sublocation 1 (Lucknow)",
+        "Sublocation 2 (Lucknow)",
+        "Sublocation 3 (Lucknow)",
+        "Sublocation 4 (Lucknow)",
+        "Sublocation 5 (Lucknow)"
+      ]
+    },
+    "duration": 21
+  },
+  {
+    "_id": "6048b190b35ecf4988e921ea",
+    "departureLocation": {
+      "name": "Agra",
+      "subLocations": [
+        "Sublocation 1 (Agra)",
+        "Sublocation 2 (Agra)",
+        "Sublocation 3 (Agra)",
+        "Sublocation 4 (Agra)",
+        "Sublocation 5 (Agra)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Lucknow",
+      "subLocations": [
+        "Sublocation 1 (Lucknow)",
+        "Sublocation 2 (Lucknow)",
+        "Sublocation 3 (Lucknow)",
+        "Sublocation 4 (Lucknow)",
+        "Sublocation 5 (Lucknow)"
+      ]
+    },
+    "duration": 18
+  },
+  {
+    "_id": "6048b190b35ecf4988e921f9",
+    "departureLocation": {
+      "name": "Bareilly",
+      "subLocations": [
+        "Sublocation 1 (Bareilly)",
+        "Sublocation 2 (Bareilly)",
+        "Sublocation 3 (Bareilly)",
+        "Sublocation 4 (Bareilly)",
+        "Sublocation 5 (Bareilly)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Kaushambi",
+      "subLocations": [
+        "Sublocation 1 (Kaushambi)",
+        "Sublocation 2 (Kaushambi)",
+        "Sublocation 3 (Kaushambi)",
+        "Sublocation 4 (Kaushambi)",
+        "Sublocation 5 (Kaushambi)"
+      ]
+    },
+    "duration": 19
+  },
+  {
+    "_id": "6048b190b35ecf4988e92208",
+    "departureLocation": {
+      "name": "Faizabad",
+      "subLocations": [
+        "Sublocation 1 (Faizabad)",
+        "Sublocation 2 (Faizabad)",
+        "Sublocation 3 (Faizabad)",
+        "Sublocation 4 (Faizabad)",
+        "Sublocation 5 (Faizabad)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Barabanki",
+      "subLocations": [
+        "Sublocation 1 (Barabanki)",
+        "Sublocation 2 (Barabanki)",
+        "Sublocation 3 (Barabanki)",
+        "Sublocation 4 (Barabanki)",
+        "Sublocation 5 (Barabanki)"
+      ]
+    },
+    "duration": 13
+  },
+  {
+    "_id": "6048b190b35ecf4988e921df",
+    "departureLocation": {
+      "name": "Lucknow",
+      "subLocations": [
+        "Sublocation 1 (Lucknow)",
+        "Sublocation 2 (Lucknow)",
+        "Sublocation 3 (Lucknow)",
+        "Sublocation 4 (Lucknow)",
+        "Sublocation 5 (Lucknow)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Faizabad",
+      "subLocations": [
+        "Sublocation 1 (Faizabad)",
+        "Sublocation 2 (Faizabad)",
+        "Sublocation 3 (Faizabad)",
+        "Sublocation 4 (Faizabad)",
+        "Sublocation 5 (Faizabad)"
+      ]
+    },
+    "duration": 19
+  },
+  {
+    "_id": "6048b190b35ecf4988e921e8",
+    "departureLocation": {
+      "name": "Amethi",
+      "subLocations": [
+        "Sublocation 1 (Amethi)",
+        "Sublocation 2 (Amethi)",
+        "Sublocation 3 (Amethi)",
+        "Sublocation 4 (Amethi)",
+        "Sublocation 5 (Amethi)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Sultanpur",
+      "subLocations": [
+        "Sublocation 1 (Sultanpur)",
+        "Sublocation 2 (Sultanpur)",
+        "Sublocation 3 (Sultanpur)",
+        "Sublocation 4 (Sultanpur)",
+        "Sublocation 5 (Sultanpur)"
+      ]
+    },
+    "duration": 14
+  },
+  {
+    "_id": "6048b190b35ecf4988e921fe",
+    "departureLocation": {
+      "name": "Lucknow",
+      "subLocations": [
+        "Sublocation 1 (Lucknow)",
+        "Sublocation 2 (Lucknow)",
+        "Sublocation 3 (Lucknow)",
+        "Sublocation 4 (Lucknow)",
+        "Sublocation 5 (Lucknow)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Bareilly",
+      "subLocations": [
+        "Sublocation 1 (Bareilly)",
+        "Sublocation 2 (Bareilly)",
+        "Sublocation 3 (Bareilly)",
+        "Sublocation 4 (Bareilly)",
+        "Sublocation 5 (Bareilly)"
+      ]
+    },
+    "duration": 16
+  },
+  {
+    "_id": "6048b190b35ecf4988e92209",
+    "departureLocation": {
+      "name": "Kanpur",
+      "subLocations": [
+        "Sublocation 1 (Kanpur)",
+        "Sublocation 2 (Kanpur)",
+        "Sublocation 3 (Kanpur)",
+        "Sublocation 4 (Kanpur)",
+        "Sublocation 5 (Kanpur)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Etawah",
+      "subLocations": [
+        "Sublocation 1 (Etawah)",
+        "Sublocation 2 (Etawah)",
+        "Sublocation 3 (Etawah)",
+        "Sublocation 4 (Etawah)",
+        "Sublocation 5 (Etawah)"
+      ]
+    },
+    "duration": 19
+  },
+  {
+    "_id": "6048b190b35ecf4988e9220b",
+    "departureLocation": {
+      "name": "Lucknow",
+      "subLocations": [
+        "Sublocation 1 (Lucknow)",
+        "Sublocation 2 (Lucknow)",
+        "Sublocation 3 (Lucknow)",
+        "Sublocation 4 (Lucknow)",
+        "Sublocation 5 (Lucknow)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Banaras",
+      "subLocations": [
+        "Sublocation 1 (Banaras)",
+        "Sublocation 2 (Banaras)",
+        "Sublocation 3 (Banaras)",
+        "Sublocation 4 (Banaras)",
+        "Sublocation 5 (Banaras)"
+      ]
+    },
+    "duration": 10
+  },
+  {
+    "_id": "6048b190b35ecf4988e921e5",
+    "departureLocation": {
+      "name": "Lucknow",
+      "subLocations": [
+        "Sublocation 1 (Lucknow)",
+        "Sublocation 2 (Lucknow)",
+        "Sublocation 3 (Lucknow)",
+        "Sublocation 4 (Lucknow)",
+        "Sublocation 5 (Lucknow)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Raebareli",
+      "subLocations": [
+        "Sublocation 1 (Raebareli)",
+        "Sublocation 2 (Raebareli)",
+        "Sublocation 3 (Raebareli)",
+        "Sublocation 4 (Raebareli)",
+        "Sublocation 5 (Raebareli)"
+      ]
+    },
+    "duration": 9
+  },
+  {
+    "_id": "6048b190b35ecf4988e921ee",
+    "departureLocation": {
+      "name": "Faizabad",
+      "subLocations": [
+        "Sublocation 1 (Faizabad)",
+        "Sublocation 2 (Faizabad)",
+        "Sublocation 3 (Faizabad)",
+        "Sublocation 4 (Faizabad)",
+        "Sublocation 5 (Faizabad)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Gonda",
+      "subLocations": [
+        "Sublocation 1 (Gonda)",
+        "Sublocation 2 (Gonda)",
+        "Sublocation 3 (Gonda)",
+        "Sublocation 4 (Gonda)",
+        "Sublocation 5 (Gonda)"
+      ]
+    },
+    "duration": 23
+  },
+  {
+    "_id": "6048b190b35ecf4988e921e1",
+    "departureLocation": {
+      "name": "Lucknow",
+      "subLocations": [
+        "Sublocation 1 (Lucknow)",
+        "Sublocation 2 (Lucknow)",
+        "Sublocation 3 (Lucknow)",
+        "Sublocation 4 (Lucknow)",
+        "Sublocation 5 (Lucknow)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Delhi",
+      "subLocations": [
+        "Sublocation 1 (Delhi)",
+        "Sublocation 2 (Delhi)",
+        "Sublocation 3 (Delhi)",
+        "Sublocation 4 (Delhi)",
+        "Sublocation 5 (Delhi)"
+      ]
+    },
+    "duration": 13
+  },
+  {
+    "_id": "6048b190b35ecf4988e921e6",
+    "departureLocation": {
+      "name": "Faizabad",
+      "subLocations": [
+        "Sublocation 1 (Faizabad)",
+        "Sublocation 2 (Faizabad)",
+        "Sublocation 3 (Faizabad)",
+        "Sublocation 4 (Faizabad)",
+        "Sublocation 5 (Faizabad)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Ayodhya",
+      "subLocations": [
+        "Sublocation 1 (Ayodhya)",
+        "Sublocation 2 (Ayodhya)",
+        "Sublocation 3 (Ayodhya)",
+        "Sublocation 4 (Ayodhya)",
+        "Sublocation 5 (Ayodhya)"
+      ]
+    },
+    "duration": 9
+  },
+  {
+    "_id": "6048b190b35ecf4988e921f1",
+    "departureLocation": {
+      "name": "Lucknow",
+      "subLocations": [
+        "Sublocation 1 (Lucknow)",
+        "Sublocation 2 (Lucknow)",
+        "Sublocation 3 (Lucknow)",
+        "Sublocation 4 (Lucknow)",
+        "Sublocation 5 (Lucknow)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Azamgarh",
+      "subLocations": [
+        "Sublocation 1 (Azamgarh)",
+        "Sublocation 2 (Azamgarh)",
+        "Sublocation 3 (Azamgarh)",
+        "Sublocation 4 (Azamgarh)",
+        "Sublocation 5 (Azamgarh)"
+      ]
+    },
+    "duration": 12
+  },
+  {
+    "_id": "6048b190b35ecf4988e92203",
+    "departureLocation": {
+      "name": "Jagdishpur",
+      "subLocations": [
+        "Sublocation 1 (Jagdishpur)",
+        "Sublocation 2 (Jagdishpur)",
+        "Sublocation 3 (Jagdishpur)",
+        "Sublocation 4 (Jagdishpur)",
+        "Sublocation 5 (Jagdishpur)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Lucknow",
+      "subLocations": [
+        "Sublocation 1 (Lucknow)",
+        "Sublocation 2 (Lucknow)",
+        "Sublocation 3 (Lucknow)",
+        "Sublocation 4 (Lucknow)",
+        "Sublocation 5 (Lucknow)"
+      ]
+    },
+    "duration": 17
+  },
+  {
+    "_id": "6048b190b35ecf4988e921de",
+    "departureLocation": {
+      "name": "Lucknow",
+      "subLocations": [
+        "Sublocation 1 (Lucknow)",
+        "Sublocation 2 (Lucknow)",
+        "Sublocation 3 (Lucknow)",
+        "Sublocation 4 (Lucknow)",
+        "Sublocation 5 (Lucknow)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Barabanki",
+      "subLocations": [
+        "Sublocation 1 (Barabanki)",
+        "Sublocation 2 (Barabanki)",
+        "Sublocation 3 (Barabanki)",
+        "Sublocation 4 (Barabanki)",
+        "Sublocation 5 (Barabanki)"
+      ]
+    },
+    "duration": 8
+  },
+  {
+    "_id": "6048b190b35ecf4988e921f4",
+    "departureLocation": {
+      "name": "Faizabad",
+      "subLocations": [
+        "Sublocation 1 (Faizabad)",
+        "Sublocation 2 (Faizabad)",
+        "Sublocation 3 (Faizabad)",
+        "Sublocation 4 (Faizabad)",
+        "Sublocation 5 (Faizabad)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Lucknow",
+      "subLocations": [
+        "Sublocation 1 (Lucknow)",
+        "Sublocation 2 (Lucknow)",
+        "Sublocation 3 (Lucknow)",
+        "Sublocation 4 (Lucknow)",
+        "Sublocation 5 (Lucknow)"
+      ]
+    },
+    "duration": 18
+  },
+  {
+    "_id": "6048b190b35ecf4988e92207",
+    "departureLocation": {
+      "name": "Sitapur",
+      "subLocations": [
+        "Sublocation 1 (Sitapur)",
+        "Sublocation 2 (Sitapur)",
+        "Sublocation 3 (Sitapur)",
+        "Sublocation 4 (Sitapur)",
+        "Sublocation 5 (Sitapur)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Bareilly",
+      "subLocations": [
+        "Sublocation 1 (Bareilly)",
+        "Sublocation 2 (Bareilly)",
+        "Sublocation 3 (Bareilly)",
+        "Sublocation 4 (Bareilly)",
+        "Sublocation 5 (Bareilly)"
+      ]
+    },
+    "duration": 22
+  },
+  {
+    "_id": "6048b190b35ecf4988e921e7",
+    "departureLocation": {
+      "name": "Alambagh",
+      "subLocations": [
+        "Sublocation 1 (Alambagh)",
+        "Sublocation 2 (Alambagh)",
+        "Sublocation 3 (Alambagh)",
+        "Sublocation 4 (Alambagh)",
+        "Sublocation 5 (Alambagh)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Anand Vihar",
+      "subLocations": [
+        "Sublocation 1 (Anand Vihar)",
+        "Sublocation 2 (Anand Vihar)",
+        "Sublocation 3 (Anand Vihar)",
+        "Sublocation 4 (Anand Vihar)",
+        "Sublocation 5 (Anand Vihar)"
+      ]
+    },
+    "duration": 10
+  },
+  {
+    "_id": "6048b190b35ecf4988e921ed",
+    "departureLocation": {
+      "name": "Kaushambi",
+      "subLocations": [
+        "Sublocation 1 (Kaushambi)",
+        "Sublocation 2 (Kaushambi)",
+        "Sublocation 3 (Kaushambi)",
+        "Sublocation 4 (Kaushambi)",
+        "Sublocation 5 (Kaushambi)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Bareilly",
+      "subLocations": [
+        "Sublocation 1 (Bareilly)",
+        "Sublocation 2 (Bareilly)",
+        "Sublocation 3 (Bareilly)",
+        "Sublocation 4 (Bareilly)",
+        "Sublocation 5 (Bareilly)"
+      ]
+    },
+    "duration": 8
+  },
+  {
+    "_id": "6048b190b35ecf4988e921f6",
+    "departureLocation": {
+      "name": "Banda(Uttar Pradesh)",
+      "subLocations": [
+        "Sublocation 1 (Banda(Uttar Pradesh))",
+        "Sublocation 2 (Banda(Uttar Pradesh))",
+        "Sublocation 3 (Banda(Uttar Pradesh))",
+        "Sublocation 4 (Banda(Uttar Pradesh))",
+        "Sublocation 5 (Banda(Uttar Pradesh))"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Kanpur",
+      "subLocations": [
+        "Sublocation 1 (Kanpur)",
+        "Sublocation 2 (Kanpur)",
+        "Sublocation 3 (Kanpur)",
+        "Sublocation 4 (Kanpur)",
+        "Sublocation 5 (Kanpur)"
+      ]
+    },
+    "duration": 18
+  },
+  {
+    "_id": "6048b190b35ecf4988e92201",
+    "departureLocation": {
+      "name": "Barabanki",
+      "subLocations": [
+        "Sublocation 1 (Barabanki)",
+        "Sublocation 2 (Barabanki)",
+        "Sublocation 3 (Barabanki)",
+        "Sublocation 4 (Barabanki)",
+        "Sublocation 5 (Barabanki)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Lucknow",
+      "subLocations": [
+        "Sublocation 1 (Lucknow)",
+        "Sublocation 2 (Lucknow)",
+        "Sublocation 3 (Lucknow)",
+        "Sublocation 4 (Lucknow)",
+        "Sublocation 5 (Lucknow)"
+      ]
+    },
+    "duration": 8
+  },
+  {
+    "_id": "6048b190b35ecf4988e921e2",
+    "departureLocation": {
+      "name": "Delhi",
+      "subLocations": [
+        "Sublocation 1 (Delhi)",
+        "Sublocation 2 (Delhi)",
+        "Sublocation 3 (Delhi)",
+        "Sublocation 4 (Delhi)",
+        "Sublocation 5 (Delhi)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Lucknow",
+      "subLocations": [
+        "Sublocation 1 (Lucknow)",
+        "Sublocation 2 (Lucknow)",
+        "Sublocation 3 (Lucknow)",
+        "Sublocation 4 (Lucknow)",
+        "Sublocation 5 (Lucknow)"
+      ]
+    },
+    "duration": 21
+  },
+  {
+    "_id": "6048b190b35ecf4988e921dc",
+    "departureLocation": {
+      "name": "Lucknow",
+      "subLocations": [
+        "Sublocation 1 (Lucknow)",
+        "Sublocation 2 (Lucknow)",
+        "Sublocation 3 (Lucknow)",
+        "Sublocation 4 (Lucknow)",
+        "Sublocation 5 (Lucknow)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Gorakhpur",
+      "subLocations": [
+        "Sublocation 1 (Gorakhpur)",
+        "Sublocation 2 (Gorakhpur)",
+        "Sublocation 3 (Gorakhpur)",
+        "Sublocation 4 (Gorakhpur)",
+        "Sublocation 5 (Gorakhpur)"
+      ]
+    },
+    "duration": 11
+  },
+  {
+    "_id": "6048b190b35ecf4988e92202",
+    "departureLocation": {
+      "name": "Banaras",
+      "subLocations": [
+        "Sublocation 1 (Banaras)",
+        "Sublocation 2 (Banaras)",
+        "Sublocation 3 (Banaras)",
+        "Sublocation 4 (Banaras)",
+        "Sublocation 5 (Banaras)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Lucknow",
+      "subLocations": [
+        "Sublocation 1 (Lucknow)",
+        "Sublocation 2 (Lucknow)",
+        "Sublocation 3 (Lucknow)",
+        "Sublocation 4 (Lucknow)",
+        "Sublocation 5 (Lucknow)"
+      ]
+    },
+    "duration": 13
+  },
+  {
+    "_id": "6048b190b35ecf4988e92206",
+    "departureLocation": {
+      "name": "Faizabad",
+      "subLocations": [
+        "Sublocation 1 (Faizabad)",
+        "Sublocation 2 (Faizabad)",
+        "Sublocation 3 (Faizabad)",
+        "Sublocation 4 (Faizabad)",
+        "Sublocation 5 (Faizabad)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Pratapgarh",
+      "subLocations": [
+        "Sublocation 1 (Pratapgarh)",
+        "Sublocation 2 (Pratapgarh)",
+        "Sublocation 3 (Pratapgarh)",
+        "Sublocation 4 (Pratapgarh)",
+        "Sublocation 5 (Pratapgarh)"
+      ]
+    },
+    "duration": 20
+  },
+  {
+    "_id": "6048b190b35ecf4988e9220a",
+    "departureLocation": {
+      "name": "Lucknow",
+      "subLocations": [
+        "Sublocation 1 (Lucknow)",
+        "Sublocation 2 (Lucknow)",
+        "Sublocation 3 (Lucknow)",
+        "Sublocation 4 (Lucknow)",
+        "Sublocation 5 (Lucknow)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Moradabad",
+      "subLocations": [
+        "Sublocation 1 (Moradabad)",
+        "Sublocation 2 (Moradabad)",
+        "Sublocation 3 (Moradabad)",
+        "Sublocation 4 (Moradabad)",
+        "Sublocation 5 (Moradabad)"
+      ]
+    },
+    "duration": 14
+  },
+  {
+    "_id": "6048b190b35ecf4988e921e0",
+    "departureLocation": {
+      "name": "Lucknow",
+      "subLocations": [
+        "Sublocation 1 (Lucknow)",
+        "Sublocation 2 (Lucknow)",
+        "Sublocation 3 (Lucknow)",
+        "Sublocation 4 (Lucknow)",
+        "Sublocation 5 (Lucknow)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Allahabad",
+      "subLocations": [
+        "Sublocation 1 (Allahabad)",
+        "Sublocation 2 (Allahabad)",
+        "Sublocation 3 (Allahabad)",
+        "Sublocation 4 (Allahabad)",
+        "Sublocation 5 (Allahabad)"
+      ]
+    },
+    "duration": 8
+  },
+  {
+    "_id": "6048b190b35ecf4988e921f3",
+    "departureLocation": {
+      "name": "Sadabad",
+      "subLocations": [
+        "Sublocation 1 (Sadabad)",
+        "Sublocation 2 (Sadabad)",
+        "Sublocation 3 (Sadabad)",
+        "Sublocation 4 (Sadabad)",
+        "Sublocation 5 (Sadabad)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Aurai",
+      "subLocations": [
+        "Sublocation 1 (Aurai)",
+        "Sublocation 2 (Aurai)",
+        "Sublocation 3 (Aurai)",
+        "Sublocation 4 (Aurai)",
+        "Sublocation 5 (Aurai)"
+      ]
+    },
+    "duration": 11
+  },
+  {
+    "_id": "6048b190b35ecf4988e921eb",
+    "departureLocation": {
+      "name": "Lucknow",
+      "subLocations": [
+        "Sublocation 1 (Lucknow)",
+        "Sublocation 2 (Lucknow)",
+        "Sublocation 3 (Lucknow)",
+        "Sublocation 4 (Lucknow)",
+        "Sublocation 5 (Lucknow)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Basti",
+      "subLocations": [
+        "Sublocation 1 (Basti)",
+        "Sublocation 2 (Basti)",
+        "Sublocation 3 (Basti)",
+        "Sublocation 4 (Basti)",
+        "Sublocation 5 (Basti)"
+      ]
+    },
+    "duration": 17
+  },
+  {
+    "_id": "6048b190b35ecf4988e921ef",
+    "departureLocation": {
+      "name": "Kanpur",
+      "subLocations": [
+        "Sublocation 1 (Kanpur)",
+        "Sublocation 2 (Kanpur)",
+        "Sublocation 3 (Kanpur)",
+        "Sublocation 4 (Kanpur)",
+        "Sublocation 5 (Kanpur)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Lucknow",
+      "subLocations": [
+        "Sublocation 1 (Lucknow)",
+        "Sublocation 2 (Lucknow)",
+        "Sublocation 3 (Lucknow)",
+        "Sublocation 4 (Lucknow)",
+        "Sublocation 5 (Lucknow)"
+      ]
+    },
+    "duration": 19
+  },
+  {
+    "_id": "6048b190b35ecf4988e921f8",
+    "departureLocation": {
+      "name": "Lucknow",
+      "subLocations": [
+        "Sublocation 1 (Lucknow)",
+        "Sublocation 2 (Lucknow)",
+        "Sublocation 3 (Lucknow)",
+        "Sublocation 4 (Lucknow)",
+        "Sublocation 5 (Lucknow)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Sultanpur",
+      "subLocations": [
+        "Sublocation 1 (Sultanpur)",
+        "Sublocation 2 (Sultanpur)",
+        "Sublocation 3 (Sultanpur)",
+        "Sublocation 4 (Sultanpur)",
+        "Sublocation 5 (Sultanpur)"
+      ]
+    },
+    "duration": 15
+  },
+  {
+    "_id": "6048b190b35ecf4988e921fb",
+    "departureLocation": {
+      "name": "Lucknow",
+      "subLocations": [
+        "Sublocation 1 (Lucknow)",
+        "Sublocation 2 (Lucknow)",
+        "Sublocation 3 (Lucknow)",
+        "Sublocation 4 (Lucknow)",
+        "Sublocation 5 (Lucknow)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Sitapur",
+      "subLocations": [
+        "Sublocation 1 (Sitapur)",
+        "Sublocation 2 (Sitapur)",
+        "Sublocation 3 (Sitapur)",
+        "Sublocation 4 (Sitapur)",
+        "Sublocation 5 (Sitapur)"
+      ]
+    },
+    "duration": 18
+  }
+]

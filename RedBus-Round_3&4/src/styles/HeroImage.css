@@ -1,0 +1,47 @@
+.hero-image {
+  background-color: #eee;
+}
+
+.hero-image > img {
+  width: 100vw;
+  height: 350px;
+  object-fit: cover;
+  object-position: 50% 0%;
+}
+
+.safety-div {
+  background-color: wheat;
+  display: flex;
+  padding: 6px 20px;
+  width: 50%;
+  margin: -20px auto 0;
+  z-index: 2;
+  position: relative;
+  bottom: 67px;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.safety-div > div {
+  margin: 0 20px;
+}
+
+.safety-div > button {
+  background-color: #d84f57;
+  border: none;
+  padding: 8px 16px;
+  width: 120px;
+  height: 40px;
+  color: #fff;
+  cursor: pointer;
+}
+
+.safety-text-div > h4 {
+  margin-bottom: 4px;
+}
+
+.searchBar-div {
+  position: relative;
+  bottom: 240px;
+  left: 20%;
+}

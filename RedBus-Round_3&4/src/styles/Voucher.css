@@ -1,0 +1,17 @@
+.voucher {
+  margin-right: 20px;
+  background-color: #fff;
+  text-align: center;
+  color: gray;
+  padding: 10px 0;
+  box-shadow: 1px 1px 9px 1px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+}
+
+.voucher > img {
+  transition: all 0.5s;
+}
+
+.voucher > img:hover {
+  transform: scale(1.1, 1.1);
+}

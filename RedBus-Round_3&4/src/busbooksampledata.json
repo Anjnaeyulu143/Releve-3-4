@@ -1,0 +1,53 @@
+{
+  "route": {
+    "_id": "6048b190b35ecf4988e921e4",
+    "departureLocation": {
+      "name": "Lucknow",
+      "subLocations": [
+        "Sublocation 1 (Lucknow)",
+        "Sublocation 2 (Lucknow)",
+        "Sublocation 3 (Lucknow)",
+        "Sublocation 4 (Lucknow)",
+        "Sublocation 5 (Lucknow)"
+      ]
+    },
+    "arrivalLocation": {
+      "name": "Haidargarh",
+      "subLocations": [
+        "Sublocation 1 (Haidargarh)",
+        "Sublocation 2 (Haidargarh)",
+        "Sublocation 3 (Haidargarh)",
+        "Sublocation 4 (Haidargarh)",
+        "Sublocation 5 (Haidargarh)"
+      ]
+    },
+    "duration": 18
+  },
+  "matchedBuses": [
+    {
+      "rating": [
+        7,
+        9,
+        3,
+        10,
+        4
+      ],
+      "_id": "6049b8a97501a24470b9a52d",
+      "operatorName": "Operator8",
+      "busType": "4",
+      "departureTime": "16",
+      "totalSeats": 40,
+      "images": "https://s3-ap-southeast-1.amazonaws.com/rb-plus/BI/APP/IND/WM/2323/16/OT/L/lejRej.jpeg",
+      "routes": "6048b190b35ecf4988e921e4",
+      "liveTracking": 0,
+      "reschedulable": 1,
+      "amenities": [
+        "wifi",
+        "blankets"
+      ]
+    }
+  ],
+  "busIdWithSeatsObj": {
+    "6049b8a97501a24470b9a52d": []
+  }
+}

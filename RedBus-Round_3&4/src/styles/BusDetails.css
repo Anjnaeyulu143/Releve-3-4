@@ -1,0 +1,73 @@
+.bus-details-main-div {
+  border: 1px solid lightgray;
+}
+.bus__details-div {
+  padding: 12px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.bus__details-div > div {
+  margin-right: 24px;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  margin: 12px 0;
+}
+
+.bus-info {
+  width: 20%;
+}
+
+.icons > span {
+  margin-left: 12px;
+}
+
+.linen {
+  background-color: linen;
+}
+
+.big {
+  font-size: 18px;
+}
+
+.bigger {
+  font-size: 24px;
+}
+
+.rating-badge {
+  background-color: #11dd11;
+  padding: 3px;
+  border-radius: 5px;
+  color: white;
+}
+
+.line {
+  width: 40px !important;
+  height: 2px !important;
+  border-radius: 999px;
+  background-color: red;
+}
+
+.rating-badge > i {
+  color: #11dd11;
+  padding: 2px;
+  background-color: #fff;
+  border-radius: 999px;
+}
+
+.view-seats {
+  background-color: #d84f57;
+  padding: 8px;
+  color: #fff;
+  border: none;
+}
+
+.lastdiv {
+  margin-left: 370px;
+  margin-bottom: 20px;
+  width: fit-content !important;
+}
