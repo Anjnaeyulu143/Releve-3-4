@@ -1,0 +1,24 @@
+.hello {
+  font-size: large;
+}
+.home-carousel {
+  width: 100vw;
+  height: 70vh;
+  object-fit: contain;
+  cursor: pointer;
+}
+.home-image-mini {
+  width: 200px;
+  height: 300px;
+  object-fit: contain;
+  cursor: pointer;
+  margin-top: 30px;
+  margin-bottom: 10vh;
+}
+.home-image-mini:hover {
+  transform: scale(1.05);
+}
+.home-movie-list {
+  display: flex;
+  justify-content: space-around;
+}
