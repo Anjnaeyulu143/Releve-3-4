@@ -1,0 +1,24 @@
+.slider{
+    display: flex;
+    max-width: 100%;
+    overflow-x: scroll;
+    overflow-y: hidden;
+
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+.poster{
+    height: 400px;
+    min-width: 700px;
+    padding: 0 1em;
+}
+
+.slider::-webkit-scrollbar{
+    display: none;
+}
+
+.arrow{
+    height: 100%;
+    background-color: rgba(56, 56, 56, 0.459);
+}
